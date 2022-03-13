@@ -1,6 +1,6 @@
 {
 "instance":"R108",
-"vehicle-nr":25,
+"nVehicles":25,
 "capacity":200,
 "customers":[
 {"cust-nr":0,"x":35,"y":35,"demand":0,"earliest":0,"latest":230,"cost":0},

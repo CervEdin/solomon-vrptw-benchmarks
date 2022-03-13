@@ -4,7 +4,7 @@ s@\(.*\)@{\n"instance":"\1",@
 p
 }
 3{
-s@\([0-9]*\)\t\([0-9]*\)@"vehicle-nr":\1,\n"capacity":\2,@
+s@\([0-9]*\)\t\([0-9]*\)@"nVehicles":\1,\n"capacity":\2,@
 p
 }
 /^cust-nr/d

@@ -1,6 +1,6 @@
 {
 "instance":"RC205",
-"vehicle-nr":25,
+"nVehicles":25,
 "capacity":1000,
 "customers":[
 {"cust-nr":0,"x":40,"y":50,"demand":0,"earliest":0,"latest":960,"cost":0},
