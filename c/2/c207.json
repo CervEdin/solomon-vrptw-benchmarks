@@ -1,5 +1,8 @@
-[
-{"vehicle-nr":25,"capacity":700},
+{
+"instance":"C207",
+"vehicle-nr":25,
+"capacity":700,
+"customers":[
 {"cust-nr":0,"x":40,"y":50,"demand":0,"earliest":0,"latest":3390,"cost":0},
 {"cust-nr":1,"x":52,"y":75,"demand":10,"earliest":302,"latest":479,"cost":90},
 {"cust-nr":2,"x":45,"y":70,"demand":30,"earliest":157,"latest":428,"cost":90},
@@ -102,3 +105,4 @@
 {"cust-nr":99,"x":55,"y":80,"demand":10,"earliest":379,"latest":594,"cost":90},
 {"cust-nr":100,"x":55,"y":85,"demand":20,"earliest":477,"latest":686,"cost":90}
 ]
+}

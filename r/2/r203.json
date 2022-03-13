@@ -1,5 +1,8 @@
-[
-{"vehicle-nr":25,"capacity":1000},
+{
+"instance":"R203",
+"vehicle-nr":25,
+"capacity":1000,
+"customers":[
 {"cust-nr":0,"x":35,"y":35,"demand":0,"earliest":0,"latest":1000,"cost":0},
 {"cust-nr":1,"x":41,"y":49,"demand":10,"earliest":0,"latest":974,"cost":10},
 {"cust-nr":2,"x":35,"y":17,"demand":7,"earliest":0,"latest":972,"cost":10},
@@ -102,3 +105,4 @@
 {"cust-nr":99,"x":20,"y":26,"demand":9,"earliest":333,"latest":432,"cost":10},
 {"cust-nr":100,"x":18,"y":18,"demand":17,"earliest":798,"latest":965,"cost":10}
 ]
+}

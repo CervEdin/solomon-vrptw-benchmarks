@@ -1,5 +1,8 @@
-[
-{"vehicle-nr":25,"capacity":1000},
+{
+"instance":"RC202",
+"vehicle-nr":25,
+"capacity":1000,
+"customers":[
 {"cust-nr":0,"x":40,"y":50,"demand":0,"earliest":0,"latest":960,"cost":0},
 {"cust-nr":1,"x":25,"y":85,"demand":20,"earliest":0,"latest":911,"cost":10},
 {"cust-nr":2,"x":22,"y":75,"demand":30,"earliest":0,"latest":919,"cost":10},
@@ -102,3 +105,4 @@
 {"cust-nr":99,"x":26,"y":35,"demand":15,"earliest":308,"latest":428,"cost":10},
 {"cust-nr":100,"x":31,"y":67,"demand":3,"earliest":810,"latest":930,"cost":10}
 ]
+}

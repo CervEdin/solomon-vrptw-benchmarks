@@ -1,5 +1,5 @@
 #!/bin/sed -f
-
+1p
 4{
 s@ *NUMBER@vehicle-number@
 s@ *CAPACITY@\tcapacity@

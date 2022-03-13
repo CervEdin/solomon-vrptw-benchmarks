@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for f in *.txt; do
+for f in $(find -name '*.txt'); do
   target="${f%.*}.json"
   echo "$f -> $target"
   ./to-tsv.sed "$f" |\

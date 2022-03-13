@@ -1,5 +1,8 @@
-[
-{"vehicle-nr":25,"capacity":200},
+{
+"instance":"C106",
+"vehicle-nr":25,
+"capacity":200,
+"customers":[
 {"cust-nr":0,"x":40,"y":50,"demand":0,"earliest":0,"latest":1236,"cost":0},
 {"cust-nr":1,"x":45,"y":68,"demand":10,"earliest":890,"latest":989,"cost":90},
 {"cust-nr":2,"x":45,"y":70,"demand":30,"earliest":816,"latest":879,"cost":90},
@@ -102,3 +105,4 @@
 {"cust-nr":99,"x":55,"y":80,"demand":10,"earliest":595,"latest":968,"cost":90},
 {"cust-nr":100,"x":55,"y":85,"demand":20,"earliest":493,"latest":880,"cost":90}
 ]
+}
