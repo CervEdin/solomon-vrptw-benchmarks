@@ -1,0 +1,9 @@
+Instance name : r201
+Authors       : Geir Hasle, Oddvar Kloster
+Date          : 30.12.2003 18:49:25
+Reference     : Chapter in G. Hasle, K-A Lie, E. Quak (eds): Geometric Modelling, Numerical Simulation, and Optimization. ISBN 978-3-540-68782-5, Springer 2007.
+Solution
+Route  1 : 5 83 45 82 47 36 64 11 19 62 7 88 90 18 84 8 49 46 48 60 17 91 100 93 89
+Route  2 : 2 72 39 75 23 67 21 40 73 41 22 87 57 43 37 97 96 13 58
+Route  3 : 95 59 92 42 15 14 98 61 16 44 38 86 85 99 6 94 53 26 54 56 74 4 55 25 24 80
+Route  4 : 33 65 63 31 69 52 27 28 12 29 76 30 71 9 51 81 79 78 34 3 50 20 10 32 66 35 68 77 1 70

@@ -1,0 +1,8 @@
+Instance name : RC208
+Authors : Bent & Van Hentenryck
+Date :    2001
+Reference : Technical Report, CS-01-06, Department of Computer Science, Brown University, September 2001.
+Solution
+Route 1 : 65 83 64 95 92 71 72 38 39 44 42 61 81 94 67 62 50 34 31 29 27 26 28 30 32 33 76 89 63 85 51 84 56 66
+Route 2 : 69 98 88 53 12 11 15 16 47 78 73 79 7 6 2 8 46 4 45 5 3 1 43 40 36 35 37 41 54 96 93 91 80
+Route 3 : 90 82 99 52 57 23 21 18 19 49 22 24 20 48 25 77 58 75 97 59 87 74 86 9 13 10 14 17 60 55 100 70 68

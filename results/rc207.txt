@@ -1,0 +1,8 @@
+Instance name : RC207
+Authors : Bent & Van Hentenryck
+Date :    2001
+Reference : Technical Report, CS-01-06, Department of Computer Science, Brown University, September 2001.
+Solution
+Route 1 : 65 83 64 95 67 31 29 28 30 33 63 76 51 19 21 18 23 75 59 87 74 86 57 22 20 49 25 77 58 97 13 10 17 60 55 100 70 68
+Route 2 : 82 99 52 9 11 15 16 47 14 12 53 78 73 79 7 6 8 46 4 45 3 1 43 36 35 37 54
+Route 3 : 69 98 88 2 5 42 44 40 38 39 41 72 71 93 81 61 90 56 84 85 94 96 92 62 50 34 27 26 32 89 48 24 66 91 80
