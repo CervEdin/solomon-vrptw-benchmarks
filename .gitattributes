@@ -1,0 +1,4 @@
+*.json binary
+c/**/*.txt binary
+r/**/*.txt binary
+rc/**/*.txt binary
